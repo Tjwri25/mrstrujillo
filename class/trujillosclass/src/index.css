@@ -1,0 +1,55 @@
+body {
+  background-color: #F6F2EC !important;
+}
+h1 {
+  text-align: center;
+  font-size: 80px !important;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+}
+.img-logo {
+  margin-top: -100px;
+ 
+ }
+ 
+ 
+ 
+ Nav {
+   margin-top: -190px;
+   margin-left: auto;
+   margin-right: auto;
+   
+ }
+ 
+ .navlinks {
+   color: #695853;
+   font-family: 'Oswald', sans-serif;
+   font-size: 20px;
+   padding-right: 40px;
+   text-decoration-line: none !important;
+ 
+ }
+ 
+ .navlinks:hover{
+   color:#3f3532 !important;
+ }
+ 
+ .classNews {
+  font-family: 'Oswald', sans-serif;
+  color: #695853;
+  background-color: transparent !important;
+  border: none !important;
+  margin:auto;
+  
+ }
